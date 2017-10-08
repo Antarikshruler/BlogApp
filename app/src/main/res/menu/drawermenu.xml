@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dashboard" android:title="Dashboard" android:icon="@drawable/ic_dashboard_black_24px"/>
+    <item android:id="@+id/clubsandevents" android:title="Clubs and Events" android:icon="@drawable/ic_event_black_24px"/>
+    <item android:id="@+id/aboutus" android:title="About Us" android:icon="@drawable/ic_supervisor_account_white_24px"/>
+</menu>
